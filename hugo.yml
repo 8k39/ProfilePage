@@ -1,7 +1,10 @@
-baseURL: ""
+baseURL: "/"
 title: hakasaku link
 paginate: 5
 theme: PaperMod
+uglyURLs: true
+relativeURLs: true
+
 
 enableRobotsTXT: true
 buildDrafts: false
