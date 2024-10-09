@@ -5,6 +5,13 @@ theme: PaperMod
 uglyURLs: true
 relativeURLs: true
 
+defaultContentLanguage: ja
+languages:
+  de:
+    languageCode: ja-JP
+    languageDirection: ltr
+    languageName: Japanese
+    weight: 1
 
 enableRobotsTXT: true
 buildDrafts: false
