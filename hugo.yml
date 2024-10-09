@@ -7,7 +7,7 @@ relativeURLs: true
 
 defaultContentLanguage: ja
 languages:
-  de:
+  ja:
     languageCode: ja-JP
     languageDirection: ltr
     languageName: Japanese
