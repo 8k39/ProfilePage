@@ -85,13 +85,13 @@ params:
     Content: 各種snsはこちら
 
   socialIcons:
-    - name: x
+    - name: X
       url: "https://x.com/hakasaku_sub"
-    - name: bluesky
+    - name: BlueSky
       url: "https://bsky.app/profile/8k3.bsky.social"
     - name: Steam
       url: "https://steamcommunity.com/id/8k39/"
-    - name: github
+    - name: GitHub
       url: "https://github.com/hakasaku"
 
   analytics:
