@@ -87,6 +87,8 @@ params:
   socialIcons:
     - name: x
       url: "https://x.com/hakasaku_sub"
+    - name: bluesky
+      url: "https://bsky.app/profile/8k3.bsky.social"
     - name: Steam
       url: "https://steamcommunity.com/id/8k39/"
     - name: github
