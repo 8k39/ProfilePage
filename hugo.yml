@@ -126,7 +126,7 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 menu:
-#  main:
+  main:
 #    - identifier: categories
 #      name: categories
 #      url: /categories/
@@ -135,10 +135,10 @@ menu:
 #      name: tags
 #      url: /tags/
 #      weight: 20
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
+    - identifier: blog
+      name: blog
+      url: https://h939.hatenablog.com/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
