@@ -95,6 +95,8 @@ params:
       url: "https://github.com/hakasaku"
     - name: HatenaBlog
       url: "https://h939.hatenablog.com/"
+    - name: osu
+      url: "https://osu.ppy.sh/users/15237771"
 
   analytics:
     google:
